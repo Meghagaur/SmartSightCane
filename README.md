@@ -1,6 +1,6 @@
 # Smart Sight Cane
 Smart Sight Cane is an innovative project designed to assist visually impaired individuals by using advanced object detection and distance measurement technologies.
-By integrating a camera and TF-miniS with a Raspberry Pi, the cane helps users detect obstacles and navigate their surroundings more safely and independently.
+By integrating a camera and TF-miniS lidar with a Raspberry Pi, the cane helps users detect obstacles and navigate their surroundings more safely and independently.
 
 ## Features <br>
 -**Real-Time Object Detection**: Utilizes a camera to identify and name objects in the user's path. <br>
